@@ -5,9 +5,7 @@ int main ()
 // Como transformar uma letra maiúscula em minúscula
 
 {
-    char ch;
-
-    ch = 65;
+    char ch= 65;
     
     printf("ch = %c\n", ch + 32);
 
