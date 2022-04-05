@@ -1,0 +1,1 @@
+// Média >/ 6,0 frequencia >/ 0,75  negativa:  OU  /*
